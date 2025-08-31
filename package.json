@@ -1,6 +1,6 @@
 {
   "name": "myexpo2",
-  "main": "my-expo2",
+  "main": "app",
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",
