@@ -6,7 +6,7 @@ import { Collapsible } from './components/Collapsible';
 export default function App() {
   return (
     <View>
- n    <HapticTab children={undefined} />
+      <HapticTab children={undefined} />
       <HelloWave />
       <Collapsible title={'Hello'}/>
     </View>
