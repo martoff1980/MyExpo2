@@ -37,6 +37,19 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "9bcd550a-96f1-4b81-a7f1-8d9ba4246844"
+      }
+    },
+    "owner": "dbreus",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/9bcd550a-96f1-4b81-a7f1-8d9ba4246844"
     }
   }
 }
